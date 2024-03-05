@@ -15,8 +15,8 @@ class ProfilePage extends StatefulWidget {
 
 class _ProfilePageState extends State<ProfilePage> {
   // Placeholder user data
-  String userName = 'Vaishnavi Nagave';
-  String userEmail = 'abc@gmail.com';
+  String userName = 'Anthony Brighton';
+  String userEmail = 'brightonstalin123@gmail.com';
   int userScore = 85;
   int userRank = 25;
   int testsTaken = 5;
@@ -120,8 +120,8 @@ class ProfilePage extends StatefulWidget {
 
 class _ProfilePageState extends State<ProfilePage> {
   // Placeholder user data
-  String userName = 'Vaishnavi Nagave';
-  String userEmail = 'abc@gmail.com';
+  String userName = 'Anthony Brighton';
+  String userEmail = 'brightonstalin123@gmail.com';
   int userScore = 85;
   int userRank = 25;
   int testsTaken = 5;
